@@ -80,5 +80,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SIEM Setup in Azure
+- Active Directory Setup for Users and Computers
