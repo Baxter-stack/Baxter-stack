@@ -1,17 +1,9 @@
 # Hello, I'm BAKARY! 
 <a href="https://www.linkedin.com/in/b-sa/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my repository! I am currently undergoing my undergrad at UMGC majoring in Cybersecurity Technology. A dedicated cybersecurity specialist with experience in incident detection, analysis, and response within 24/7 SOC environments. My experience includes utilizing advanced EDR tools such as SentinelOne, Carbon Black, and CrowdStrike, and managing SIEM systems to optimize threat detection and response. 
-
-
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Welcome to my repository! I am currently undergoing my undergrad at UMGC majoring in Cybersecurity Technology. A dedicated cybersecurity specialist with experience in incident detection, analysis, and response within 24/7 SOC environments. My experience includes utilizing advanced EDR tools such as SentinelOne, Carbon Black, and CrowdStrike, and managing SIEM systems to optimize threat detection and response. Below you can view some of my projects and certifications! 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         | 
 |-----------------------------------------------|----------------------------|
 | SIEM Configuration and Log Analysis            | <a href="https://github.com/Baxter-stack/SIEM_SETUP">SIEM Lab</a>|
