@@ -71,7 +71,7 @@ Welcome to my repository! I am currently undergoing my undergrad at UMGC majorin
     <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Network+">
 </a>
 <a href="https://www.credly.com/badges/9bac29fe-7bf3-4c27-8b91-ddc75f0476b8/linked_in_profile">
-    <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Network+">
+     <img src="https://img.shields.io/badge/-IT%20Fundamentals-FF0000?&style=for-the-badge&logo=comptia&logoColor=white" alt="IT Fundamentals">
 </a>
 <a href="https://learn.microsoft.com/en-us/users/bakarysawaneh-5011/credentials/a722ac89f6492ed1">
     <img src="https://img.shields.io/badge/-Microsoft%20Certification-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Certification">
@@ -79,6 +79,7 @@ Welcome to my repository! I am currently undergoing my undergrad at UMGC majorin
 
 </div>
 
-## Projects
+<!--## Projects
 - SIEM Setup in Azure
 - Active Directory Setup for Users and Computers
+-->
