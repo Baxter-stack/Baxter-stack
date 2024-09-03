@@ -3,7 +3,7 @@
 
 Welcome to my repository! I am currently undergoing my undergrad at UMGC majoring in Cybersecurity Technology. A dedicated cybersecurity specialist with experience in incident detection, analysis, and response within 24/7 SOC environments. My experience includes utilizing advanced EDR tools such as SentinelOne, Carbon Black, and CrowdStrike, and managing SIEM systems to optimize threat detection and response. Below you can view some of my projects and certifications! 
 
-## Skills
+## Cybersecurity Projects
 | Skill                                         | Associated Project         | 
 |-----------------------------------------------|----------------------------|
 | SIEM Configuration and Log Analysis            | <a href="https://github.com/Baxter-stack/SIEM_SETUP">SIEM Lab</a>|
@@ -20,6 +20,10 @@ Welcome to my repository! I am currently undergoing my undergrad at UMGC majorin
   <a href="https://www.vmware.com/products/carbon-black-endpoint.html">
     <img src="https://img.shields.io/badge/-CarbonBlack-007CBA?&style=for-the-badge&logo=VMware&logoColor=white" alt="CarbonBlack">
 </a>
+  <a href="https://limacharlie.io/">
+    <img src="https://img.shields.io/badge/-LimaCharlie-000000?&style=for-the-badge&logo=limacharlie&logoColor=white" alt="LimaCharlie">
+</a>
+</a>
 </div>
 
 ### SIEM
@@ -35,6 +39,23 @@ Welcome to my repository! I am currently undergoing my undergrad at UMGC majorin
 </a>
   <a href="https://azure.microsoft.com/en-us/products/microsoft-sentinel">
     <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Sentinel">
+</a>
+
+</div>
+
+### Vulnerability Management
+<div>
+   <a href="https://www.tenable.com/products/nessus">
+    <img src="https://img.shields.io/badge/-Nessus-00C176?&style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus">
+</a>
+   <a href="https://www.greenbone.net/en/">
+    <img src="https://img.shields.io/badge/-OpenVAS-48A047?&style=for-the-badge&logo=openvas&logoColor=white" alt="OpenVAS">
+</a>
+   <a href="https://nmap.org/">
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+</a>
+  <a href="https://www.qualys.com/">
+    <img src="https://img.shields.io/badge/-Qualys-DC382D?&style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys">
 </a>
 
 </div>
