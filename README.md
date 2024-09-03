@@ -6,8 +6,8 @@ Welcome to my repository! I am currently undergoing my undergrad at UMGC majorin
 ## Cybersecurity Projects
 | Skill                                         | Associated Project         | 
 |-----------------------------------------------|----------------------------|
-| SIEM Configuration and Log Analysis           | <a href="https://github.com/Baxter-stack/SIEM_SETUP">SIEM Project</a>|
 | SOAR EDR Integration & Automation             | <a href="https://github.com/Baxter-stack/SOAR-EDR-Integration-Project">SOAR EDR Project</a>|
+| SIEM Configuration and Log Analysis           | <a href="https://github.com/Baxter-stack/SIEM_SETUP">SIEM Project</a>|
     
 ## Tools
 ### Endpoint
